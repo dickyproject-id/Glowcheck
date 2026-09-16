@@ -1,0 +1,4 @@
+0 Berjerawat
+1 Kering
+2 Berminyak
+3 Normal
