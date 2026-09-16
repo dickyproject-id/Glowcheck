@@ -211,6 +211,6 @@ lib/
 
 <div align="center">
 
-**© 2026 GlowCheck - Prasdadestriyana**
+**© 2026 GlowCheck - Muhammad Dicky Adicandra**
 
 </div>
