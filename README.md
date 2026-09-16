@@ -241,6 +241,6 @@ lib/
 
 <div align="center">
 
-**© 2026 GlowCheck - Muhammad Dicky Adicandra**
+**© 2025 GlowCheck - Muhammad Dicky Adicandra**
 
 </div>
